@@ -10,3 +10,13 @@
 * {
   font-family: "vazir";
 }
+:root {
+  --bg-color: #00b05d;
+  --text-color: #fff;
+  --bg-button: #00b05d;
+}
+button {
+  background: var(--bg-button) !important;
+  color: var(--text-color);
+}
+
