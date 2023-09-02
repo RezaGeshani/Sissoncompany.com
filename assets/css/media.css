@@ -11,4 +11,20 @@
     position: relative;
     transform: translateY(0%) !important;
   }
+  .about-section {
+    border-radius: 10px !important ;
+  }
+  .bg-self {
+    padding: 5px !important;
+    border-radius: 0px !important;
+  }
+  .box:hover {
+    background-color: white;
+    box-shadow: 0px 0px 4px 4px #00b05d;
+    transform: scale(0.95) !important;
+  }
+  .Card {
+    position: relative;
+    top: 10px !important;
+  }
 }
