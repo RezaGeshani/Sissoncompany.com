@@ -1,1 +1,14 @@
-@media screen and (max-width: 998px) {}
+@media screen and (max-width: 998px) {
+  .navbar {
+    margin: 0 !important;
+    border-radius: 0px 0px 10px 10px !important;
+    top: 0 !important;
+  }
+  main {
+    margin-top: 100px !important ;
+  }
+  .caption-s1 {
+    position: relative;
+    transform: translateY(0%) !important;
+  }
+}
